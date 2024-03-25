@@ -1,0 +1,4 @@
+C:\Users\Shivek Hiraman\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivek Hiraman\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\Shivek Hiraman\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\Shivek Hiraman\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
